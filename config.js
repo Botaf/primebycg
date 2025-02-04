@@ -3,14 +3,14 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
+  ownerID: ["938028662631043153", ""], 
   mongodbUri : "mongodb+srv://cgaming49:yourdadstark@cgwasthere.6tmca.mongodb.net/?retryWrites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "YouTube Music", 
+  activityName: "CGtheOG", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
-  SupportServer: "https://discord.gg/xQF9f9yUEM",
+  SupportServer: "https://discord.gg/c53KEAhSy9",
   embedTimeout: 5, 
   errorLog: "", 
   nodes: [
